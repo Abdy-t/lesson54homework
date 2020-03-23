@@ -1,0 +1,27 @@
+[
+  {
+    "id":"1",
+    "name": "Cinema",
+    "description": "watch TV"
+  },
+  {
+    "id":"2",
+    "name": "Restaurant",
+    "description": "meeting"
+  },
+  {
+    "id":"3",
+    "name": "Snow",
+    "description": "to snowboard"
+  },
+  {
+    "id":"4",
+    "name": "Relax",
+    "description": "go to the Bar"
+  },
+  {
+    "id":"5",
+    "name": "Gym",
+    "description": "go to the Gym club"
+  }
+]
